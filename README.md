@@ -43,6 +43,5 @@ I’m a passionate front-end developer who loves building creative and scalable 
 
 ---
 
----
 
 ⭐️ *“Code with purpose, design with heart.”*  
