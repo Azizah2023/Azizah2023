@@ -25,4 +25,22 @@ I’m a passionate front-end developer who loves building creative and scalable 
 
 ---
 
+### 🧩 LeetCode Progress
+👩🏻‍💻 Coming soon...  
+*Preparing for algorithm & data structure challenges!*  
+<!-- بعد ما تجهزين الرابط، ضيفيه هنا بهالشكل:
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/USERNAME)
+-->
+
+---
+
+### 📱 TikTok Projects & Tutorials
+🎥 Coming soon...  
+*I’ll be sharing coding tips, front-end projects & dev lifestyle moments!*  
+<!-- بعد ما تجهزين الرابط، ضيفيه هنا بهالشكل:
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://tiktok.com/@USERNAME)
+-->
+
+---
+
 ⭐️ *“Code with purpose, design with heart.”*  
