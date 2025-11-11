@@ -1,28 +1,21 @@
-# 💼 Azizah Mohammed | Front-End Developer  
+# 🌸 Hi, I'm Azizah!
 
-Hi there 👋  
-I’m **Azizah**, a passionate Front-End Developer focused on creating clean, scalable, and user-friendly interfaces using **React**, **TypeScript**, and modern web technologies.  
-I enjoy turning ideas into interactive experiences that make users’ lives easier and more enjoyable.
+I’m a passionate front-end developer who loves building creative and scalable web experiences.
 
 ---
 
-### 🧠 About Me
-- 💻 Front-End Developer | React & TypeScript Enthusiast  
-- 🎯 Currently exploring UI/UX principles & performance optimization  
-- ☁️ Learning DevOps & cloud fundamentals to bridge tech and management  
-- 📚 Continuous learner – currently studying PMP & PMO concepts  
-- 🌍 Based in Saudi Arabia 🇸🇦  
-
----
-
-### 🏆 Achievements
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Azizah2023&theme=flat&column=6)
+### 🏆 My GitHub Achievements
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Azizah2023&theme=radical)
 
 ---
 
 ### 📊 GitHub Stats
-![Azizah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Azizah2023&show_icons=true&theme=transparent&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azizah2023&layout=compact&theme=transparent)
+![Azizah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Azizah2023&show_icons=true&theme=tokyonight)
+
+---
+
+### 🌟 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azizah2023&layout=compact&theme=tokyonight)
 
 ---
 
