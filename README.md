@@ -10,12 +10,14 @@ I’m a passionate front-end developer who loves building creative and scalable 
 ---
 
 ### 📊 GitHub Stats
-![Azizah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Azizah2023&show_icons=true&theme=tokyonight)
+![Azizah's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Azizah2023&show_icons=true&theme=tokyonight)
+
 
 ---
 
 ### 🌟 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azizah2023&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Azizah2023&layout=compact&theme=tokyonight)
+
 
 
 
