@@ -4,10 +4,6 @@ I’m a passionate front-end developer who loves building creative and scalable 
 
 ---
 
-### 🏆 My GitHub Achievements
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Azizah2023&theme=radical&no-frame=true&margin-w=10)
-
----
 
 ### 📊 GitHub Stats
 ![Azizah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Azizah2023&show_icons=true&theme=tokyonight&cache_seconds=1800)
